@@ -1,7 +1,12 @@
-# pengalaman-belajar-git-dicoding
-Pengalaman Belajar di Kelas "Belajar Dasar Git dengan GitHub" dari Dicoding Academy
+# pengalaman-belajar-di-dicoding
 
-12 September 2024 Belajar kelas "Belajar Dasar Git dengan GitHub". (Progres 35%)
+22 Agustus 2024
+Belajar kelas "belajar pemrograman prosedural dengan python". (Progres 100%)
 
-- Belajar tentang apa itu Git dan alasan menggunakannya.
-- Belajar Git lebih dalam dan bagaimana cara penggunaannya.
+* Belajar tentang  Python sebagai pemrograman prosedural
+* Belajar Berinteraksi dengan Nilai, Input, Output, dan Ekspresi
+
+14 September 2024
+Pengenalan ke Logika Pemrograman (Programming Logic 101)
+* Belajar tentang Gerbang logika
+* Belajar Pengenalan dasar computational Thinking
